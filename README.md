@@ -1,7 +1,7 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20I'm%20Kuma.&fontSize=70&color=0:4fefde,100:b678c4&stroke=7500d9)
 
 <h3 align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%kuma-Hwang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2kuma-Hwang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </h3>
 
 ---
