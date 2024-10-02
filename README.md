@@ -77,7 +77,7 @@ Oracle, MySQL
 
 ## About Me
 
-**1994.08.07***
+**1994.08.07**
 
 
 > **email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　　    kuuma0807@gmail.com \
