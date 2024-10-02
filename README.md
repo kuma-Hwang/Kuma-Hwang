@@ -1,6 +1,7 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20I'm%20Kuma.&fontSize=70&color=0:4fefde,100:b678c4&stroke=7500d9)
+
 
 <h3 align="center">
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20I'm%20Kuma.&fontSize=70&color=0:4fefde,100:b678c4&stroke=7500d9)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkuma-Hwang%2Fhit-counter&count_bg=%232CB7BE&title_bg=%233F3F3F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h3>
 
