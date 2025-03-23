@@ -22,16 +22,16 @@
 
 
 
-#### Front-End(프론트엔드) - 교육예정
+#### Front-End(프론트엔드)
 JavaScriptES6 -Node.js기반, React
 
 
-#### Back-End(백엔드)-교육예정
+#### Back-End(백엔드)
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp; SpringFramework, SpringBoot
 
 
-#### Database(데이터베이스) -교육예정
-Oracle, MySQL
+#### Database(데이터베이스)
+Oracle, MySQL, DeBeaver
 
 #### Others(기타)
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
